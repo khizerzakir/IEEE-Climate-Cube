@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Climate Data Cube"
+  site-url: "https://github.com/khizerzakir/IEEE-Climate-Cube"
+  
+format:
+  html:
+    theme: default

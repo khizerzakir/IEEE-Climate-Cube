@@ -1,0 +1,24 @@
+---
+title: "Your Presentation Title"
+subtitle: "Your Subtitle"
+author: "Your Name"
+date: "2025-07-29"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    logo: your-logo.png
+    footer: "Your Footer Text"
+    title-slide-attributes:
+      data-background-image: "background.svg"
+      data-background-size: "auto"
+      data-background-opacity: "0.3"
+      data-background-position: "bottom"
+---
+
+## Slide 1
+Your content here
+
+## Slide 2
+More content here
